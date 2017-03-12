@@ -1,0 +1,4 @@
+// Para instalar el Bower en este directorio
+{
+  "directory" : "src/public/bower_components"
+}
